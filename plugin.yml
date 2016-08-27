@@ -1,0 +1,7 @@
+name: Hub
+main: me.LegendsMC.Hub.Hub
+description: Hub Plugin!
+version: 1
+commands:
+   Hub:
+      description: Hub Plugin.
